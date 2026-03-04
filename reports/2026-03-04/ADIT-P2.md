@@ -1,18 +1,19 @@
 # ADIT-P2 - EM Governance
-**Date:** 2026-03-04 | **Price:** $0.15 | **Change:** -5.01% | **Legs:** 51
+**Date:** 2026-03-04 | **Price:** $0.1492 | **Change:** TBD | **Legs:** 51
 
 ## Price Action
-ADIT-P2 declined -5.01% to $0.15, indicating reduced governance risks in emerging markets. This significant drop suggests stabilizing political conditions or resolved electoral uncertainties.
+Emerging Markets Governance basket at $0.1492, reflecting moderate risk levels for governance disruptions across developing economies. The substantial number of underlying markets (51) indicates comprehensive coverage of global EM political risk.
 
 ## Key Developments
-- Notable decline in emerging market political risk pricing
-- Broad-based improvement across 51 governance variables
-- May reflect successful transitions or reduced coup/unrest probability
-
-*Note: Detailed news research requires web search functionality for latest developments.*
+Note: Real-time news search unavailable - general analysis provided:
+- Electoral cycles ongoing across multiple emerging markets
+- Economic pressures affecting political stability in several regions
+- Commodity price impacts on resource-dependent nations
+- Debt sustainability concerns in some emerging economies
+- Regional conflicts and their political implications
 
 ## Constituent Highlights
-The wide basket coverage suggests systemic improvement in EM political stability rather than isolated country effects.
+With 51 underlying markets, this basket covers the broadest range of political risks globally. Includes elections, coups, policy changes, and governance stability across Latin America, Africa, Asia, and Eastern Europe. Key countries likely include Brazil, India, Indonesia, Nigeria, and others.
 
 ## Outlook
-Monitor upcoming elections, policy changes, and stability indicators across key emerging markets. The decline may signal opportunity in EM assets.
+Emerging market governance faces headwinds from economic pressures and social tensions. Monitor upcoming elections, debt crises, and commodity price impacts on political stability.

@@ -1,18 +1,19 @@
 # ADIT-E3 - Oil Supply Disruption
-**Date:** 2026-03-04 | **Price:** $0.27 | **Change:** -10.85% | **Legs:** 43
+**Date:** 2026-03-04 | **Price:** $0.2706 | **Change:** TBD | **Legs:** 43
 
 ## Price Action
-ADIT-E3 experienced the largest decline of all system baskets today, falling -10.85% to $0.27. This significant drop suggests reduced market concern about oil supply disruptions, likely reflecting stabilized geopolitical tensions or improved supply chain conditions.
+Oil Supply Disruption basket at $0.2706, indicating significant market concerns about global energy supply stability. The elevated price reflects ongoing geopolitical risks affecting major oil production and transportation routes.
 
 ## Key Developments
-- Major price decline indicates reduced risk of oil supply disruptions
-- Market appears to be pricing out previous supply shock concerns
-- Notable divergence from Middle East conflict basket (ADIT-S3) which rose +3.52%
-
-*Note: Detailed news research requires web search functionality for latest developments.*
+Note: Real-time news search unavailable - general analysis provided:
+- Middle East tensions affecting Strait of Hormuz transit
+- Russia energy exports and sanctions impact
+- OPEC+ production coordination and quota disputes
+- Strategic petroleum reserve policies across major consumers
+- Energy infrastructure security and cyberattack risks
 
 ## Constituent Highlights
-With 43 underlyers, this basket tracks various oil supply chain risk factors. The broad-based decline suggests systemic risk reduction rather than isolated events.
+The 43 underlying markets cover various oil supply disruption scenarios including shipping route blockades, production facility attacks, major producer instability, sanctions impacts, and natural disasters affecting oil infrastructure.
 
 ## Outlook
-Monitor OPEC decisions, Strait of Hormuz shipping lanes, and geopolitical developments in oil-producing regions. The sharp decline may present value if supply risks re-emerge.
+Oil supply security faces multiple risk vectors from geopolitical tensions, infrastructure vulnerabilities, and producer coordination challenges. Monitor Middle East developments, sanctions regimes, and OPEC decisions.
