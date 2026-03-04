@@ -1,17 +1,18 @@
 # ADIT-P4 - US Governance
-**Date:** 2026-03-04 | **Price:** $0.1975 | **Change:** +0.12% | **Legs:** 71
+**Date:** 2026-03-04 | **Price:** $0.20 | **Change:** +1.28% | **Legs:** 71
 
 ## Price Action
-US Governance basket gained +0.12% to $0.1975, with direction showing MIXED signals. Recent price improvement from $0.1973 suggests modest reduction in US political risk perception.
+ADIT-P4 gained +1.28% to $0.20, reflecting increased US governance concerns. The moderate price and broad 71-variable coverage suggests complex political dynamics.
 
 ## Key Developments
-- Congress legislative activity and partisan dynamics
-- Executive branch policy implementation and federal agency actions
-- State-level political developments affecting federal governance
-- Upcoming election cycles and political campaign developments
+- Rising US political risk factors
+- Comprehensive coverage suggests multiple governance vectors
+- Mid-tier pricing indicates balanced but watchful positioning
+
+*Note: Detailed news research requires web search functionality for latest US political developments.*
 
 ## Constituent Highlights
-71 positions provide diverse US political risk exposure through government-sensitive stocks, political prediction markets, and policy-dependent sectors.
+71 variables likely encompass Congress, executive orders, elections, and institutional stability measures across the US political system.
 
 ## Outlook
-Monitor Congressional votes, executive orders, and any major political developments that could affect US governance stability.
+Monitor Congressional activities, executive actions, and electoral developments. The mixed directional signal suggests ongoing political uncertainty.

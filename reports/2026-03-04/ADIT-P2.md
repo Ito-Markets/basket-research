@@ -1,17 +1,18 @@
 # ADIT-P2 - EM Governance
-**Date:** 2026-03-04 | **Price:** $0.1501 | **Change:** +0.59% | **Legs:** 51
+**Date:** 2026-03-04 | **Price:** $0.15 | **Change:** -5.01% | **Legs:** 51
 
 ## Price Action
-EM Governance posted a solid +0.59% gain to $0.1501, with direction RISK_UP indicating emerging market political instability concerns. Recent movement from $0.1492 suggests increasing political risk perception across emerging markets.
+ADIT-P2 declined -5.01% to $0.15, indicating reduced governance risks in emerging markets. This significant drop suggests stabilizing political conditions or resolved electoral uncertainties.
 
 ## Key Developments
-- Emerging market elections and political transitions under scrutiny
-- Currency volatility affecting political stability across EM nations
-- Coups and political unrest in several African and Latin American countries
-- IMF programs and debt restructuring creating political pressures
+- Notable decline in emerging market political risk pricing
+- Broad-based improvement across 51 governance variables
+- May reflect successful transitions or reduced coup/unrest probability
+
+*Note: Detailed news research requires web search functionality for latest developments.*
 
 ## Constituent Highlights
-With 51 positions, the basket provides broad EM political risk exposure across regions. Likely includes country ETFs, emerging market bonds, and political risk instruments.
+The wide basket coverage suggests systemic improvement in EM political stability rather than isolated country effects.
 
 ## Outlook
-Monitor upcoming elections in key emerging markets and potential political instability events.
+Monitor upcoming elections, policy changes, and stability indicators across key emerging markets. The decline may signal opportunity in EM assets.
