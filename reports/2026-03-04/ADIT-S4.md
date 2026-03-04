@@ -1,19 +1,17 @@
 # ADIT-S4 - US-China Conflict Escalation
-**Date:** 2026-03-04 | **Price:** $0.2219 | **Change:** TBD | **Legs:** 23
+**Date:** 2026-03-04 | **Price:** $0.22 | **Change:** N/A | **Legs:** N/A
 
 ## Price Action
-US-China Conflict Escalation basket trading at $0.2219, indicating moderate but persistent tensions between the superpowers. The risk-up direction suggests increasing probability of conflict escalation across multiple domains.
+US-China Conflict Escalation basket at $0.22 with RISK_UP direction signal, indicating rising concern about bilateral tensions between the superpowers. Moderate-high pricing with increasing risk suggests growing conflict probability.
 
 ## Key Developments
-Note: Real-time news search unavailable - general analysis provided:
-- Taiwan tensions and cross-strait military activities
-- Trade war continuation and technology restrictions
-- South China Sea territorial disputes
-- Technology competition and semiconductor access
-- Military buildup and strategic competition
+- *Note: News research unavailable due to missing Brave API key configuration*
+- RISK_UP signal indicates escalating US-China tension concerns
+- Price level suggests markets pricing meaningful conflict escalation risk
+- Focus on Taiwan developments, trade tensions, and military positioning
 
 ## Constituent Highlights
-The 23 underlying markets cover various escalation scenarios including Taiwan conflict, trade disputes, technology wars, military incidents, cyber warfare, and diplomatic breakdown scenarios between the US and China.
+The basket tracks prediction markets on US-China tensions, Taiwan conflict, trade war escalation, and military confrontation. Rising risk signal requires close monitoring of bilateral relationship developments.
 
 ## Outlook
-US-China tensions remain elevated with risks across multiple domains. Key monitoring areas include Taiwan situation, technology restrictions, military posturing, and economic decoupling progress.
+Critical to watch Taiwan-related developments, trade policy changes, and military activities in the Pacific. RISK_UP trend with moderate pricing suggests potential for significant moves on major bilateral news.

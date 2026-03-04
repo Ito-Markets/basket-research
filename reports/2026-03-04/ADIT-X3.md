@@ -1,19 +1,17 @@
 # ADIT-X3 - Major Economy Recession
-**Date:** 2026-03-04 | **Price:** $0.1660 | **Change:** TBD | **Legs:** 157
+**Date:** 2026-03-04 | **Price:** $0.16 | **Change:** N/A | **Legs:** N/A
 
 ## Price Action
-Major Economy Recession basket at $0.1660, indicating moderate recession risks across developed economies. The basket's extensive coverage (157 markets) suggests comprehensive tracking of global economic indicators and recession risks.
+Major Economy Recession basket at $0.16 with RISK_DOWN direction signal, indicating decreasing recession concerns. The moderate pricing with declining risk suggests markets seeing reduced probability of major economic downturn.
 
 ## Key Developments
-Note: Real-time news search unavailable - general analysis provided:
-- Central bank policy divergence and interest rate cycles
-- Inflation trends and monetary policy effectiveness
-- Labor market dynamics and unemployment rates
-- Yield curve inversions and traditional recession indicators
-- Corporate earnings and consumer spending patterns
+- *Note: News research unavailable due to missing Brave API key configuration*
+- RISK_DOWN signal is positive, indicating reduced recession probability expectations
+- Price level suggests markets still pricing some recession risk but trending lower
+- Focus on recession indicators like GDP, unemployment, and yield curve dynamics
 
 ## Constituent Highlights
-The largest basket with 157 markets, covering recession risks across major developed economies including US, EU, Japan, UK, and others. Markets likely include GDP growth rates, unemployment thresholds, yield curve indicators, and specific timing of potential recessions.
+The basket tracks recession probability indicators across major economies. The encouraging RISK_DOWN signal suggests improving economic sentiment, though moderate pricing indicates continued vigilance.
 
 ## Outlook
-Economic conditions show mixed signals with persistent inflation concerns balanced against slowing growth. Monitor central bank communications, employment data, and leading economic indicators.
+Monitor economic indicators, central bank policies, and yield curve movements. The RISK_DOWN trend is constructive for broader market sentiment if sustained.

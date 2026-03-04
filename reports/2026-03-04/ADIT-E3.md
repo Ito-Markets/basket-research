@@ -1,19 +1,17 @@
 # ADIT-E3 - Oil Supply Disruption
-**Date:** 2026-03-04 | **Price:** $0.2706 | **Change:** TBD | **Legs:** 43
+**Date:** 2026-03-04 | **Price:** $0.28 | **Change:** N/A | **Legs:** N/A
 
 ## Price Action
-Oil Supply Disruption basket at $0.2706, indicating significant market concerns about global energy supply stability. The elevated price reflects ongoing geopolitical risks affecting major oil production and transportation routes.
+Oil Supply Disruption basket at high $0.28 level with RISK_UP direction signal, indicating significant market concern about potential oil supply shocks. High pricing suggests meaningful probability of supply disruptions.
 
 ## Key Developments
-Note: Real-time news search unavailable - general analysis provided:
-- Middle East tensions affecting Strait of Hormuz transit
-- Russia energy exports and sanctions impact
-- OPEC+ production coordination and quota disputes
-- Strategic petroleum reserve policies across major consumers
-- Energy infrastructure security and cyberattack risks
+- *Note: News research unavailable due to missing Brave API key configuration*
+- High pricing indicates markets pricing significant oil supply risk
+- RISK_UP direction suggests increasing geopolitical or operational supply concerns
+- Focus likely on OPEC decisions, Strait of Hormuz tensions, and sanction impacts
 
 ## Constituent Highlights
-The 43 underlying markets cover various oil supply disruption scenarios including shipping route blockades, production facility attacks, major producer instability, sanctions impacts, and natural disasters affecting oil infrastructure.
+The basket encompasses prediction markets tracking oil supply disruptions, OPEC dynamics, and geopolitical oil risks. High pricing with rising risk signal requires monitoring of energy markets and geopolitical developments.
 
 ## Outlook
-Oil supply security faces multiple risk vectors from geopolitical tensions, infrastructure vulnerabilities, and producer coordination challenges. Monitor Middle East developments, sanctions regimes, and OPEC decisions.
+Monitor OPEC announcements, Middle East tensions affecting shipping lanes, and any new sanctions. High pricing with RISK_UP trend suggests potential for energy market volatility.

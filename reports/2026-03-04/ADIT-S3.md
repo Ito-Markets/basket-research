@@ -1,19 +1,17 @@
 # ADIT-S3 - Middle East Armed Conflict
-**Date:** 2026-03-04 | **Price:** $0.2868 | **Change:** TBD | **Legs:** 92
+**Date:** 2026-03-04 | **Price:** $0.28 | **Change:** N/A | **Legs:** N/A
 
 ## Price Action
-Middle East Armed Conflict basket trading at $0.2868, reflecting elevated tensions and conflict risks across the region. This represents one of the higher-valued baskets, indicating significant market concern about regional stability.
+Middle East Armed Conflict basket at elevated $0.28 level with RISK_UP direction, indicating high and rising concern about regional military escalation. High pricing suggests markets see significant conflict probability.
 
 ## Key Developments
-Note: Real-time news search unavailable - general analysis provided:
-- Israel-Palestine tensions and Gaza situation
-- Iran nuclear program and regional proxy conflicts
-- Saudi Arabia regional policy and Yemen conflict
-- Syria ongoing instability and reconstruction efforts
-- Lebanon political and economic crisis
+- *Note: News research unavailable due to missing Brave API key configuration*
+- High pricing indicates markets taking Middle East conflict risks very seriously
+- RISK_UP direction suggests accelerating regional tensions
+- Focus on Iran, Israel, Hamas, Hezbollah, Houthis, and broader Gulf dynamics
 
 ## Constituent Highlights
-With 92 underlying markets, this basket comprehensively covers Middle Eastern conflict scenarios. Markets likely include specific country conflicts (Iran-Israel, proxy wars), terrorist activities, oil infrastructure attacks, and regional alliance shifts involving major powers.
+The basket tracks prediction markets on regional armed conflict involving major Middle Eastern actors. High pricing with rising risk signal demands close attention to regional security developments.
 
 ## Outlook
-Middle Eastern tensions remain elevated with multiple conflict vectors. Key factors include Iran policy, Israeli security concerns, proxy conflicts, and regional power competition.
+Critical monitoring of Middle East developments, particularly Iran-Israel dynamics and proxy group activities. High pricing with RISK_UP trend creates significant volatility potential on regional news.
